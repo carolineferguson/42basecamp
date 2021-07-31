@@ -13,3 +13,4 @@
 | [C04](C04)  | 50  | :heavy_check_mark:  |
 | [C05](C05)  | 60  | :heavy_check_mark:  |
 | [C06](C06)   | 100 | :heavy_check_mark: | 
+| [C07](C07)  | 60 |  :heavy_check_mark: |
